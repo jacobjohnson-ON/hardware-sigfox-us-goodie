@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [F143-MINI-KIT-902-FE-SMA_v1-0-2b.PcbDoc]
+   Generated File[Pick Place for F143-MINI-KIT-902-FE-SMA_v1-0-2b.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:26:57 AM On 4/16/2017

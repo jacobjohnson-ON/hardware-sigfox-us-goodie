@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=LB1 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LB2 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LH1 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LH2 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LPA1 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LPA2 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LPA4 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LVCO Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component Footprint: Designator=LB1 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LH1 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LH2 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LPA1 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LPA2 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LPA4 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LVCO Old Footprint=L0402WW New Footprint=L0402
+Change Component Library : Designator=LB2 Old Library=axsem_passives_v1-7.IntLib New Library=axsem_passives_v1-6.SCHLIB

@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=LC1 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component DesignItemId : Designator=LC2 Old DesignItemId=L0402WW New DesignItemId=L0402
+Change Component Footprint: Designator=LC1 Old Footprint=L0402WW New Footprint=L0402
+Change Component Footprint: Designator=LC2 Old Footprint=L0402WW New Footprint=L0402

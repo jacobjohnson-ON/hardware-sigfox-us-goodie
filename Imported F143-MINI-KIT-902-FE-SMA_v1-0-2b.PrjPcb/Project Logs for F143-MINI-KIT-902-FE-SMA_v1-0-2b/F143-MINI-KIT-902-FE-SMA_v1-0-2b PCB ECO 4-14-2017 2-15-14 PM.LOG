@@ -1,0 +1,9 @@
+Added Component: Designator=LED3(LED0603)
+Added Component: Designator=R24(R0402)
+Added Pin To Net: NetName=PC1 Pin=LED3-A
+Added Pin To Net: NetName=GND Pin=R24-3
+Added Pin To Net: NetName=NetLED3_C Pin=LED3-C
+Added Pin To Net: NetName=NetLED3_C Pin=R24-4
+Added Net: Name=NetLED3_C
+Added Member To Class: ClassName=F143-MINI-KIT-902-FE-SMA_v1-0-2b Member=Component LED3 red
+Added Member To Class: ClassName=F143-MINI-KIT-902-FE-SMA_v1-0-2b Member=Component R24 220

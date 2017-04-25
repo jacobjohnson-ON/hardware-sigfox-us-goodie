@@ -1,0 +1,104 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator ON_Logo                  0mil          0mil    491.241mil    930.444mil          0mil          0mil  B        270.00 Comment        
+Batt2      Battery_Clip_AAA   2050.354mil    925.197mil   1015.315mil    925.197mil   2965.315mil    925.197mil  B        360.00 591/597        
+Batt1      Battery_Clip_AAA   2295.236mil   1464.567mil   3330.276mil   1464.567mil   1380.276mil   1464.567mil  B        180.00 591/597        
+R23        R0402             1832.244mil   1554.331mil   1832.244mil   1554.331mil   1832.244mil   1538.191mil  T         90.00 0 ohms         
+Pot2       Poti-4mm_SMD      1997.599mil    943.307mil   1993.661mil    943.307mil   1922.795mil   1000.394mil  T        270.00 500K           
+Pot1       Poti-4mm_SMD      1727.126mil   1368.898mil   1727.126mil   1372.835mil   1784.213mil   1443.701mil  T        180.00 1M             
+Lens1      Lens              1110.591mil   1464.567mil   1110.591mil   1464.567mil   1423.778mil   1777.754mil  T         45.00 Fresnel Lens 8003-1
+SW1        SW_MS-22D01       2938.937mil   2044.882mil   2938.937mil   2044.882mil   2938.937mil   1930.709mil  T        180.00 MS-22D01       
+ANT1       Spring_Antenna     1074.37mil   2133.858mil    1074.37mil   2133.858mil    1074.37mil   2133.858mil  B        180.00 SW868-TH13     
+S2         ONSC-TO-5-3       1110.591mil   1464.567mil   1110.591mil   1464.567mil    1039.88mil   1535.278mil  T        315.00 D203S          
+R22        R0402             1623.189mil   1186.614mil   1623.189mil   1186.614mil   1623.189mil   1202.754mil  T        270.00 0 ohms         
+R21        R0402             1761.646mil    840.231mil   1761.646mil    840.231mil   1761.646mil    856.371mil  T        270.00 0 ohms         
+R20        R0402             1761.646mil    980.386mil   1761.646mil    980.386mil   1761.646mil    964.246mil  T         90.00 0-500K         
+R19        R0402             1319.646mil   1216.929mil   1319.646mil   1216.929mil   1303.506mil   1216.929mil  T        360.00 0-1M           
+R17        R0402             1760.984mil   1049.213mil   1760.984mil   1049.213mil   1760.984mil   1033.073mil  T         90.00 47K            
+R16        R0402             1761.378mil   1152.362mil   1761.378mil   1152.362mil   1761.378mil   1136.222mil  T         90.00 1K             
+R15        R0402             1407.047mil    841.338mil   1407.047mil    841.338mil   1407.047mil    857.479mil  T        270.00 43K            
+R14        R0402             1397.677mil   1245.352mil   1397.677mil   1245.352mil   1413.817mil   1245.352mil  T        180.00 20K            
+R13        R0402             1399.961mil   1020.472mil   1399.961mil   1020.472mil   1416.101mil   1020.472mil  T        180.00 10K            
+R12        R0402             1357.047mil    958.661mil   1357.047mil    958.661mil   1357.047mil    942.521mil  T         90.00 560K           
+R18        R0402             1380.276mil    899.606mil   1380.276mil    899.606mil   1364.136mil    899.606mil  T        360.00 10K            
+LED2       LED0603_-_Y       1101.429mil   1757.359mil   1101.429mil   1757.359mil   1130.959mil   1757.359mil  T        180.00 yellow         
+IC2        SOIC127P600X175-14AN   1583.425mil    915.748mil   1583.425mil    915.748mil   1488.937mil   1065.748mil  T        360.00 NCS36000       
+C18        C0603             1961.378mil   1109.449mil   1961.378mil   1109.449mil   1961.378mil   1083.859mil  T         90.00 100nF          
+C17        C0402             1761.378mil    912.598mil   1761.378mil    912.598mil   1761.378mil    896.848mil  T         90.00 100nF          
+C16        C0402             1323.189mil    772.835mil   1323.189mil    772.835mil   1323.189mil    757.085mil  T         90.00 100nF          
+C15        C0402             1359.016mil    840.157mil   1359.016mil    840.157mil   1359.016mil    824.407mil  T         90.00 100nF          
+C14        C0402             1319.252mil   1166.535mil   1319.252mil   1166.535mil   1303.502mil   1166.535mil  T        360.00 10nF           
+C13        C1206             1001.717mil    893.307mil   1002.717mil    893.307mil   1001.717mil    946.457mil  T        270.00 33uF           
+C12        C0402              1400.82mil    959.717mil    1400.82mil    959.717mil    1400.82mil    975.467mil  T        270.00 10nF           
+C10        C1206             1229.701mil    790.157mil   1228.701mil    790.157mil   1229.701mil    737.008mil  T         90.00 33uF           
+T_OP2_O    PIN-03            1503.504mil   1132.677mil   1503.504mil   1132.677mil   1503.504mil   1132.677mil  T         90.00 TP03           
+LC1        L0402              2048.46mil    2079.53mil    2048.46mil    2079.53mil    2048.46mil    2095.67mil  T        270.00 18nH           
+LC2        L0402              2048.46mil    2024.41mil    2048.46mil    2024.41mil    2048.46mil    2008.27mil  T         90.00 18nH           
+CB1        C0402              1985.47mil    2079.53mil    1985.47mil    2079.53mil    1985.47mil    2063.78mil  T         90.00 NC             
+LB2        L0402              1985.47mil    2024.41mil    1985.47mil    2024.41mil    1985.47mil    2008.27mil  T         90.00 12nH           
+CB2        C0402              1942.16mil    2040.16mil    1942.16mil    2040.16mil    1926.41mil    2040.16mil  T          0.00 2.7pF          
+LB1        L0402              1942.16mil    2071.66mil    1942.16mil    2071.66mil     1958.3mil    2071.66mil  T        180.00 12nH           
+CC1        C0402              2016.96mil    2079.53mil    2016.96mil    2079.53mil    2016.96mil    2063.78mil  T         90.00 NC             
+CC2        C0402              2016.96mil    2024.41mil    2016.96mil    2024.41mil    2016.96mil    2008.66mil  T         90.00 NC             
+C100       C0402              2099.64mil    2099.21mil    2099.64mil    2099.21mil    2099.64mil    2114.96mil  T        270.00 100pF          
+C101       C0402              2099.64mil     1906.3mil    2099.64mil     1906.3mil    2099.64mil    1922.05mil  T        270.00 100pF          
+C103       C0603              2457.91mil    2221.26mil    2457.91mil    2221.26mil    2457.91mil    2195.67mil  T         90.00 4.7uF          
+LVCO       L0402              2186.26mil    1866.93mil    2186.26mil    1866.93mil     2202.4mil    1866.93mil  T        180.00 0OHM           
+C105       C0402              2261.06mil    2197.64mil    2261.06mil    2197.64mil    2261.06mil    2213.39mil  T        270.00 100pF          
+X1         HM-2MM-2X5-SMD     2631.14mil    2059.84mil    2631.14mil    2059.84mil     2552.4mil    1902.36mil  B        270.00 HM-2X52MM-SMD  
+Q1         TF20               2324.05mil    2174.02mil    2324.05mil    2174.02mil    2296.49mil    2174.02mil  T          0.00 32.768kHz      
+S1         TASTER_SMALL_SMD_4PAD   2187.544mil   1527.502mil   2187.544mil   1527.502mil   2145.224mil   1445.812mil  T        270.00                
+Q2         X2016              2050.43mil    2189.77mil    2050.43mil    2189.77mil       2015mil    2166.15mil  T          0.00 48MHz          
+C102       C0402              1973.66mil    2229.14mil    1973.66mil    2229.14mil    1973.66mil    2244.89mil  T        270.00 10nF           
+R1         R0402             1219.965mil   1787.359mil   1219.965mil   1787.359mil   1203.825mil   1787.359mil  T        180.00 220            
+LED1       LED0603           1101.429mil    1801.36mil   1101.429mil    1801.36mil   1071.899mil    1801.36mil  T          0.00 green          
+C2         C0402              2123.26mil    2183.86mil    2123.26mil    2183.86mil    2123.26mil    2199.61mil  T        270.00 10nF           
+C3         C0402              2160.67mil    2183.86mil    2160.67mil    2183.86mil    2160.67mil    2199.61mil  T        270.00 10nF           
+R2         R0402               2164.6mil    2134.65mil     2164.6mil    2134.65mil    2148.46mil    2134.65mil  T        180.00 2.7k           
+TP6        PIN-03             2268.93mil    1803.94mil    2268.93mil    1803.94mil    2268.93mil    1803.94mil  T          0.00                
+TP7        PIN-03             2316.18mil    1803.94mil    2316.18mil    1803.94mil    2316.18mil    1803.94mil  T          0.00                
+TP10       PIN-03             2367.36mil    1803.94mil    2367.36mil    1803.94mil    2367.36mil    1803.94mil  T         95.60                
+TP11       PIN-03              2414.6mil    1803.94mil     2414.6mil    1803.94mil     2414.6mil    1803.94mil  T         90.00                
+TP12       PIN-03             2426.41mil    1843.31mil    2426.41mil    1843.31mil    2426.41mil    1843.31mil  T          0.00                
+R3         R0402              2046.49mil    2260.63mil    2046.49mil    2260.63mil    2030.35mil    2260.63mil  T        180.00 600BEAD        
+TP1        PIN-03             2190.19mil    1823.62mil    2190.19mil    1823.62mil    2190.19mil    1823.62mil  T          0.00                
+CLF        C0402              2119.33mil    1815.75mil    2119.33mil    1815.75mil    2135.08mil    1815.75mil  T        180.00 39pF           
+R6         R0402              2083.89mil    1855.12mil    2083.89mil    1855.12mil    2100.03mil    1855.12mil  T          0.00 12k            
+C5         C0402              2048.46mil    1815.75mil    2048.46mil    1815.75mil    2064.21mil    1815.75mil  T        180.00 10nF           
+C1         C0402              2312.24mil    2217.32mil    2312.24mil    2217.32mil    2327.99mil    2217.32mil  T        180.00 12pF           
+C4         C0402              2390.98mil     2193.7mil    2390.98mil     2193.7mil    2390.98mil    2209.45mil  T        270.00 12pF           
+U1         QFN40              2272.87mil    2004.73mil    2272.87mil    2004.73mil    2139.01mil    2073.63mil  T          0.00 SFUSN          
+LC3        L0402              2040.59mil    1933.86mil    2040.59mil    1933.86mil    2040.59mil    1917.72mil  T         90.00 18nH           
+CT3        C0402              1957.91mil    1949.61mil    1957.91mil    1949.61mil    1942.16mil    1949.61mil  T          0.00 2.2pF          
+LT3        L0402              1900.82mil    1949.61mil    1900.82mil    1949.61mil    1916.96mil    1949.61mil  T        180.00 16nH           
+C11        C0402              2442.16mil    2134.65mil    2442.16mil    2134.65mil    2442.16mil     2150.4mil  T        270.00 100pF          
+CC3        C0402              2005.15mil    1933.86mil    2005.15mil    1933.86mil    2005.15mil    1949.61mil  T        270.00 NC             
+LPA4       L0402              1818.15mil    1957.48mil    1818.15mil    1957.48mil   1806.737mil   1968.893mil  T        315.00 NC             
+CPA8       C0402              1841.77mil     1981.1mil    1841.77mil     1981.1mil   1830.633mil   1992.237mil  T        315.00 0Ohm           
+CPA11      C0402               1845.7mil    1914.18mil     1845.7mil    1914.18mil   1856.837mil   1925.317mil  T        225.00 NC             
+LH2        L0402               1414.6mil    2024.41mil     1414.6mil    2024.41mil    1398.46mil    2024.41mil  T          0.00 6.8nH          
+LH1        L0402              1355.55mil    2024.41mil    1355.55mil    2024.41mil    1339.41mil    2024.41mil  T          0.00 6.8nH          
+CH1        C0402              1341.77mil     1975.2mil    1341.77mil     1975.2mil    1341.77mil    1990.95mil  T        270.00 3pF            
+CH3        C0402              1432.32mil     1975.2mil    1432.32mil     1975.2mil    1432.32mil    1990.95mil  T        270.00 3pF            
+CH2        C0402              1385.07mil     1975.2mil    1385.07mil     1975.2mil    1385.07mil    1990.95mil  T        270.00 4.3pF          
+X3         SAW_1.4X1.1X0.5    1881.14mil    2079.53mil    1881.14mil    2079.53mil    1881.14mil    2102.66mil  T        270.00                
+U$2        QFN16_TH          1591.765mil   2022.445mil    1611.45mil     2012.6mil    1650.82mil    1992.91mil  T        180.00                
+C6         C0402              1562.24mil    1862.99mil    1562.24mil    1862.99mil    1562.24mil    1878.74mil  T        270.00 10nF           
+C7         C0402              1501.22mil    2124.81mil    1501.22mil    2124.81mil    1516.97mil    2124.81mil  T        180.00 10nF           
+C8         C0603              1599.64mil    1853.15mil    1599.64mil    1853.15mil    1599.64mil    1878.74mil  T        270.00 4.7uF          
+LPA1       L0402              1493.34mil    1979.14mil    1493.34mil    1979.14mil    1493.34mil    1995.28mil  T        270.00 3.3nH          
+LPA2       L0402              1566.18mil    2124.81mil    1566.18mil    2124.81mil    1582.32mil    2124.81mil  T        180.00 6.2nH          
+R4         R0402              1721.69mil    1862.99mil    1721.69mil    1862.99mil    1705.55mil    1862.99mil  T        180.00 0              
+R5         R0402              1721.69mil    1827.56mil    1721.69mil    1827.56mil    1705.55mil    1827.56mil  T        180.00 NC             
+CPA10      C0402              1818.15mil    2024.41mil    1818.15mil    2024.41mil   1807.013mil   2013.273mil  T         45.00 NC             
+R7         R0402              1745.31mil    2030.32mil    1745.31mil    2030.32mil   1756.723mil   2018.907mil  T        315.00 180            
+R8         R0402              1763.03mil    2079.53mil    1763.03mil    2079.53mil   1751.617mil   2068.117mil  T        225.00 68             
+R9         R0402              1792.55mil       2050mil    1792.55mil       2050mil   1781.137mil   2038.587mil  T        225.00 68             
+R10        R0402              1936.26mil    2203.55mil    1936.26mil    2203.55mil    1936.26mil    2187.41mil  T        270.00 0 Ohm          
+R11        R0402              1973.66mil    2170.08mil    1973.66mil    2170.08mil    1973.66mil    2153.94mil  T        270.00 NC             
+CH4        C0402              1355.55mil    2055.91mil    1355.55mil    2055.91mil     1339.8mil    2055.91mil  T          0.00 NC             
+CH5        C0402               1414.6mil    2055.91mil     1414.6mil    2055.91mil    1398.85mil    2055.91mil  T          0.00 NC             
+C9         C0402                 2202mil    2183.86mil       2202mil    2183.86mil       2202mil    2199.61mil  T        270.00 NC             
+LED3       LED0603           1101.429mil   1713.357mil   1101.429mil   1713.357mil   1130.959mil   1713.357mil  T        180.00 red            
+R24        R0402             1303.243mil   1704.543mil   1303.243mil   1704.543mil   1287.103mil   1704.543mil  T        180.00 220            
+

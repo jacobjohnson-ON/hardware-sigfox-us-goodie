@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB5/RX0 Pin=TP2-TP
+Removed Pin From Net: NetName=DBG_CLK Pin=TP3-TP
+Removed Pin From Net: NetName=RST_N Pin=TP4-TP
+Removed Pin From Net: NetName=VSUP Pin=TP5-TP
+Removed Pin From Net: NetName=DBG_DATA Pin=TP8-TP
+Removed Pin From Net: NetName=PB4/TX0 Pin=TP9-TP
+Removed Pin From Net: NetName=DBG_EN Pin=TP13-TP
+Removed Pin From Net: NetName=PB3 Pin=TP14-TP
+Removed Pin From Net: NetName=GND Pin=TP15-TP
